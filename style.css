@@ -51,6 +51,7 @@ h1 {
   text-align: left;
   border-radius: 10px;
   backdrop-filter: brightness(0.5);
+  text-transform: uppercase;
 }
 
 .btn {
