@@ -16,6 +16,7 @@ html, body {
   width: 50%;
   height: 100%;
   position: relative;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .split::before {
