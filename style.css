@@ -60,6 +60,7 @@ h1 {
   border-radius: 10px;
   backdrop-filter: brightness(0.5);
   text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .btn {
