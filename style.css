@@ -113,3 +113,7 @@ h1 {
 .left, .right {
   transition: width 2s ease-in-out;
 }
+
+.no-select {
+  user-select: none;
+}
